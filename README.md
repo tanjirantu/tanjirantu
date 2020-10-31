@@ -13,7 +13,7 @@ I am a full-stack developer with 2 years of professional experience. I have been
 ![](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net)
 ![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=Php)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash)
+![](https://img.shields.io/badge/-Bash-42413d?style=flat-square&logo=GNU%20Bash)
 
 <!-- Frameworks -->
 ![](https://img.shields.io/badge/-Node.js-282830?style=flat-square&logo=node.js)
