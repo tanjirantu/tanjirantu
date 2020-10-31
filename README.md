@@ -6,7 +6,7 @@ I am a full-stack developer with 2 years of professional experience. I have been
 
 [![Linkedin: tanjir-antu](http://img.shields.io/badge/-TANJIRANTU-0077B5?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/tanjir-antu/)](https://www.linkedin.com/in/tanjir-antu/)
 
-### Language and Tools
+### Languages and Tools
 
 <!-- Language -->
 ![](https://img.shields.io/badge/-JavaScript-565555?style=flat-square&logo=javascript)
