@@ -1,6 +1,6 @@
 ### Hi there, I am Tanjir Antu 👋
 <!-- Bio -->
-I am a full-stack developer with 3 years of professional experience. I have been working on front-end using React.js, Next.js, Redux and Node.js, MongoDB as back-end and database. I like to adapt new technologies. Currently I am working with GraphQL. I love to travel and play games on my free time.
+I am a full-stack developer with 4 years of professional experience. I have been working on front-end using React.js, Next.js, Redux and Node.js, MongoDB as back-end and database. I like to adapt new technologies. Currently I am working with GraphQL. I love to travel and play games on my free time.
 
 <br />
 
