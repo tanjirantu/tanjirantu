@@ -13,6 +13,8 @@
 - AWS
 - Digitalocean
 
-##### Connect: 
-[![Linkedin: tanjir-antu](http://img.shields.io/badge/-TANJIRANTU-0077B5?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/tanjir-antu/)](https://www.linkedin.com/in/tanjir-antu/) [![Twitter: tanjir-antu](http://img.shields.io/badge/-TANJIRANTU-0077B5?style=for-the-badge&logo=twitter&link=https://twitter.com/TanjirAntu/)](https://twitter.com/TanjirAntu)
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/tanjir-antu/"><img align="left" src="https://github.com/tanjirantu/tanjirantu/blob/tanjirantu-patch-1/linkedin.png" alt="Tanjir Antu | LinkedIn" width="21px"/></a><a href="https://twitter.com/TanjirAntu"><img align="left" src="https://github.com/tanjirantu/tanjirantu/blob/tanjirantu-patch-1/twitter.png" alt="Tanjir Antu | Twitter" width="21px"/></a>
+
 
