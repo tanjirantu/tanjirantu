@@ -1,5 +1,6 @@
 ### Hi there, I am Tanjir Antu 👋
 <a href="https://www.linkedin.com/in/tanjir-antu/"><img align="left" src="https://github.com/tanjirantu/tanjirantu/blob/tanjirantu-patch-1/linkedin.png" alt="Tanjir Antu | LinkedIn" width="21px"/></a><a href="https://twitter.com/TanjirAntu"><img align="left" src="https://github.com/tanjirantu/tanjirantu/blob/tanjirantu-patch-1/twitter.png" alt="Tanjir Antu | Twitter" width="21px"/></a>
+<br/>
 ##### Technology used:
 
 <!-- Language -->
